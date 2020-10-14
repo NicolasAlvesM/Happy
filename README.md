@@ -8,7 +8,13 @@ Projeto para agendar visitas a crianças em orfanatos,esta sendo desenvolvido du
 - Aprendi sobre conceitos de ORM e foi utilizado TypeORM para se utilizar o ORM com typescript
 - Aprendir sobre como tratar erros com a utilização do Yup.
 
-
+## Tecnologias utilizas até o momento
+* [TypeScript](https://www.typescriptlang.org/)
+* [Node](https://nodejs.org/en/)
+* [React](https://reactjs.org/)
+* [SQLite](https://www.sqlite.org/index.html)
+* [TypeORM](https://typeorm.io/#/)
+* [Yup](https://github.com/jquense/yup)
 
 ## Screenshots
 <img align="center" src="https://github.com/NicolasMorenoAlves/Happy/blob/main/server/uploads/landingPage.png" height="500px"/> 
