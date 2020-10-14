@@ -1,5 +1,8 @@
 # Happy
-Projeto para agendar visitas a crianças em orfanatos,esta sendo desenvolvido durante a NLW#3
+Projeto para agendar visitas a crianças em orfanatos,esta sendo desenvolvido durante a NLW#3, evento promovido pela  [Rocketseat](https://rocketseat.com.br/)
+
+## Oque é?
+A aplicação que será desenvolvida nessa edição da NLW, se chama Happy, o projeto foi criado em homenagem ao dia das crianças e o objetivo é conectar orfanatos com pessoas que queiram visitar um.
 
 # Aprendizados até o momento
 - Upload de imagens com o Multer
