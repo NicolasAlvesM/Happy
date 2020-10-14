@@ -1,5 +1,3 @@
 # Happy
 
-<div>
-<img style="margin-right:10px;" src="https://github.com/NicolasMorenoAlves/Happy/blob/main/server/uploads/landingPage.png" width="48%"/><img src="https://github.com/NicolasMorenoAlves/Happy/blob/main/server/uploads/orfanatosMAPA.png" width="48%"/>
-</div>
+<img align="left" src="https://github.com/NicolasMorenoAlves/Happy/blob/main/server/uploads/landingPage.png" width="48%"/><img align="right" src="https://github.com/NicolasMorenoAlves/Happy/blob/main/server/uploads/orfanatosMAPA.png" width="48%"/>
