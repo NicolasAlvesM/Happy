@@ -1,3 +1,3 @@
 # Happy
 
-<img align="left" src="https://github.com/NicolasMorenoAlves/Happy/blob/main/server/uploads/landingPage.png" width="48%"/><img align="right" src="https://github.com/NicolasMorenoAlves/Happy/blob/main/server/uploads/orfanatosMAPA.png" height="48%"/>
+<img align="left" src="https://github.com/NicolasMorenoAlves/Happy/blob/main/server/uploads/landingPage.png" width="500px"/><img align="right" src="https://github.com/NicolasMorenoAlves/Happy/blob/main/server/uploads/orfanatosMAPA.png" height="500px"/>
