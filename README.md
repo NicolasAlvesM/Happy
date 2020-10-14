@@ -7,7 +7,7 @@ A aplicação que será desenvolvida nessa edição da NLW, se chama Happy, o pr
 # Aprendizados até o momento
 - Upload de imagens com o Multer
 - Conceito de Views no backend, onde é decidido como os dados são retornados para o client
-- Coloquei em pratica conceitos de Decorators nos Models e Migrations para criação das tabelas.
+- Coloquei em pratica conceitos de Models e Migrations para criação das tabelas.
 - Aprendi sobre conceitos de ORM e foi utilizado TypeORM para se utilizar o ORM com typescript
 - Aprendir sobre como tratar erros com a utilização do Yup.
 
