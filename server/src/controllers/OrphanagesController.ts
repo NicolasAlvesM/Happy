@@ -31,21 +31,21 @@ export default {
             open_on_weekends,
 
         }=request.body
-
         const orphanagesRepository=getRepository(Orphanages)
 
         const  requestImages=request.files as Express.Multer.File[]
         const images =requestImages.map(requestImage=>{
             return {path:requestImage.filename}})
 
+            console.log(instructions)
         const data={
             name,
             latitude,
             longitude,
             about,
-            instructions,
+            instructions:instructions[0],
             opening_hours,
-            open_on_weekends,
+            open_on_weekends:open_on_weekends==='true',
             images
         }
         const schema=Yup.object().shape({
@@ -62,6 +62,7 @@ export default {
                 })
             ).required(),
         })
+
         await schema.validate(data,{
             abortEarly:false
         })
